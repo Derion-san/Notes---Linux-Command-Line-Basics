@@ -8,4 +8,4 @@
 ..* 2 Maybe someone find it useful
 
 ### Last updated:
-19. 06. 2017
+19.06.2017
